@@ -1,8 +1,8 @@
 # Music Visualiser Project
 
-Name:
+Name: Ludvine Nzenza
 
-Student Number: 
+Student Number: C17337876
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
