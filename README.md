@@ -12,7 +12,7 @@ Student Number: C17337876
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
-
+Create visuals that respond to a musical piece.
 # Instructions
 
 # How it works
